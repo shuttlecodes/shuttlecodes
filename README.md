@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuttlecodes
 - 👀 I’m interested in fullstack and game development
-- 🌱 I’m currently learning reactive programming with Angular, while still working on my C++ skills
-- 💞️ I’m open to collaborating on projects!
+- 🌱 I’m currently learning frontend and reactive programming with Angular, while still honing my C++ skills
+- 💞️ I’m always open to having conversations and collaborating on projects!
 - 📫 Feel free to reach me at ttmai@uwaterloo.ca
 
 <!---
