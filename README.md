@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tam! I'm a Systems Design Engineering student @ University of Waterloo
-- 👀 I love exploring new things, and am especially interested in fullstack and game development!!
-- 🌱 I’m currently working on a fullstack project for a local organization
+- 🌱 I enjoy building things and learning how to use new tools, both in class and in work contexts
+- 👀 I am passionate about bridging the gap between design and front-end!
 - 💞️ I’m always open to having conversations and collaborating on projects :)
 - 📫 Feel free to reach me at ttmai@uwaterloo.ca
