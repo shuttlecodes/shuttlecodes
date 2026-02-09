@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tam! I'm a Systems Design Engineering student @ University of Waterloo
-- 🌱 I enjoy building things and learning how to use new tools, both in class and in work contexts
-- 👀 I am passionate about building good product experiences for users, no matter the challenge.
-- 💞️ I’m always open to having conversations and collaborating on projects :)
-- 📫 Feel free to reach me at ttmai@uwaterloo.ca
+- 😄 Hi, I’m Tam! I'm a Systems Design Engineering student @ University of Waterloo
+- 🌱 I enjoy learning new skills and want to build something that's lasting and leaves a positive impact!
+- 👀 I am passionate about developing a stronger intuition about users, in order to build good user experiences.
+- 🤝 I'm always open to having conversations and collaborating on projects :)
+- 📫 Reach me at ttmai@uwaterloo.ca
